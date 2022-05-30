@@ -1,0 +1,7 @@
+.item{
+    color:black;
+}
+.calendar{
+    grid-area: ca;
+    background-color: aquamarine;
+}

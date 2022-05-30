@@ -1,0 +1,19 @@
+.app-wrapper {
+  grid-gap: 10px;
+  margin: 0 auto;
+  /* width: 1980px; */
+  display: grid;
+  /* grid-template-columns: auto;
+  grid-template-rows:auto; */
+  grid-template-columns: 150px 1100px 200px; 
+  grid-template-rows: 80px 180px 300px 300px; 
+  grid-template-areas: 
+    "h h h"
+    "n s ca"
+    "k c r"
+    "p c t";
+}
+
+.app-wrapper-content{
+  font-family: 'Courier New', Courier, monospace;
+}

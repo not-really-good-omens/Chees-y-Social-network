@@ -1,0 +1,14 @@
+.stories{
+    grid-area: s;
+    background-color: beige;
+    font-size: smaller;
+    font-style: italic;
+  
+  }
+  .ImgStories{
+    width: 50px;
+    height: 70px;
+    margin: 0 auto;
+    /* position:-webkit-sticky; */
+  }
+  

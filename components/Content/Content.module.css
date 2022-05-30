@@ -1,0 +1,11 @@
+.content{
+    grid-area: c;
+    background-color:wheat;
+    font-style:italic;
+    }
+.item{
+ color:brown;
+}
+.content img{
+    width: 100px;
+}
